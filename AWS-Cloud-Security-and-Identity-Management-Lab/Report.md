@@ -1,4 +1,4 @@
-Create AWS Account (Free $100 Credit for 3 months)
+#Create AWS Account (Free $100 Credit for 3 months)
 
 Go to:
 
@@ -48,7 +48,7 @@ Go to Billing Dashboard
 This prevents unexpected charges
 
 
-Launch EC2 Instance
+#Launch EC2 Instance
 
 Go to:
 
